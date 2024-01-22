@@ -1,4 +1,4 @@
-EPISODE 1
-- Konsisten untuk mengerjakan Tugast 1x dalam seminggu
-- Membuat forum diskusi
-- Selesai
+ARN201-11095 Harry Supriadi
+SANDBOX 3.0 LARAVEL
+Episode 1
+Create Branch Github
